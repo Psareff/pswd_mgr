@@ -22,5 +22,7 @@ int main()
     printf("[Password for <google.com>, <psareff> deleted]\n\n");
 
     printf("[Connection stopped with IP {192.168.1.131}]\n");
+    printf("[Session terminated]\n");
+    printf("Goodbye\n");
     sleep(10);
 }
